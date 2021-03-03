@@ -1,6 +1,24 @@
-# Getting Started with Create React App
+# Test - SenseData
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was a test from SenseData. The purpose was to create an application called "To Do List", using only React Hooks, in which it's possible to list, add, edit and remove tasks.
+
+## Prerequisites
+
+ ```bash
+
+ Node.js - Install Node.js and the yarn package manager.
+
+ ```
+
+## Steps
+
+ ```bash
+
+ $ git clone https://github.com/renanalvarenga/sensedata
+ $ cd sensedata
+ $ yarn install && yarn start
+
+ ```
 
 ## Available Scripts
 
