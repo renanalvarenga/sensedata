@@ -102,7 +102,7 @@ const ListContent = styled.section`
 
             & > img {
                 padding: 0;
-                height: 3vh;
+                height: 20px;
                 filter: invert(40%) sepia(50%) saturate(4249%) hue-rotate(180deg) brightness(86%) contrast(95%);
             }
         }
@@ -121,7 +121,7 @@ const ListContent = styled.section`
 
             & > img {
                 padding: 0;
-                height: 3vh;
+                height: 20px;
                 filter: invert(30%) sepia(92%) saturate(4269%) hue-rotate(344deg) brightness(89%) contrast(102%);
             }
         }
